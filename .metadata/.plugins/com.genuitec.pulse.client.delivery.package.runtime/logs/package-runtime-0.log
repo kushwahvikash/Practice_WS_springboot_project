@@ -1,0 +1,8 @@
+May 17, 2024 3:43:12 PM com.genuitec.pulse.client.deliverypackage.runtime.internal.Activator initializeLoggers
+INFO: Package starting up at Fri May 17 15:43:12 IST 2024
+May 17, 2024 3:46:38 PM org.eclipse.tm4e.core.registry.Registry _doLoadSingleGrammar
+WARNING: No grammar source for scope [source.java]
+May 17, 2024 3:46:38 PM org.eclipse.tm4e.core.internal.rule.RuleFactory _compilePatterns
+WARNING: CANNOT find grammar for scopeName [source.java]. I am [source.xml]
+May 17, 2024 3:46:38 PM org.eclipse.tm4e.core.internal.rule.RuleFactory _compilePatterns
+WARNING: REMOVING RULE ENTIRELY DUE TO EMPTY PATTERNS THAT ARE MISSING
